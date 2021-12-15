@@ -7,7 +7,7 @@
         "emcc-cli": "./bin/emcc-cli.js"
     },
     "scripts": {
-        "test": "emcc-cli --version"
+        "test": "emcc-cli --help"
     },
     "repository": {
         "type": "git",
