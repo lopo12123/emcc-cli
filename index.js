@@ -1,0 +1,1 @@
+throw new Error('do not import this package in any project!')
